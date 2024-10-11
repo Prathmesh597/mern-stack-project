@@ -8,7 +8,7 @@
    - For backend: cd backend && npm install
    - For frontend: cd frontend && npm install
 4. Set up your environment variables (explain what variables are needed)
-5. Run the backend: cd backend && npm start
+5. Run the backend: cd backend && node server.js
 6. Run the frontend: cd frontend && npm start
 
 ## Technologies Used
